@@ -20,7 +20,7 @@ let Edad = 25
 let Direccion = "Vargas Araya";
 
 
-console.log(Nombre);
-console.log(Apellido);
-console.log(Edad);
-console.log(Direccion);
+console.log("Hola mi nombre es:"+Nombre+ " y mi apellido es "+Apellido+" mi edad es "+Edad+" vivo en "+Direccion);
+// console.log(Apellido);
+// console.log(Edad);
+// console.log(Direccion);
