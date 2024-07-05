@@ -18,9 +18,17 @@ let Nombre = "Genesis";
 let Apellido = "Garita";
 let Edad = 25
 let Direccion = "Vargas Araya";
+let Ventana
+let Mensaje = "Hola mi nombre es:"+Nombre+ " y mi apellido es "+Apellido+" mi edad es "+Edad+" vivo en "+Direccion
+let Mensaje2 ="Ess mayor de edad?"
+console.log("Mensaje")
 
 
-console.log("Hola mi nombre es:"+Nombre+ " y mi apellido es "+Apellido+" mi edad es "+Edad+" vivo en "+Direccion);
 // console.log(Apellido);
 // console.log(Edad);
 // console.log(Direccion);
+// alert(Mensaje)
+Ventana=prompt(Mensaje2)
+alert(Ventana)
+
+
